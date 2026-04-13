@@ -360,3 +360,19 @@ main {
         }
     }
 }
+
+@media (max-width: 600px) {
+    .pra {
+        min-height: auto;
+        padding: 15px;
+        gap: 10px;
+    }
+
+    .pra h1 {
+        font-size: 22px;
+    }
+
+    .pra p {
+        font-size: 14px;
+    }
+}
